@@ -15,6 +15,9 @@ RedFox Studios DevKit is a modular repository containing shared assets used acro
 > [!NOTE]
 > This repository is typically used as a Git submodule in other projects (e.g. websites, games) to ensure consistency and minimize duplication.
 
+> [!IMPORTANT]
+> The DevKit is not final. Many things may change, and the repository may be split into multiple repositories in the future.
+
 ## Use Cases
 
 - **Next.js Websites:** Primary use case. Assets imported and rendered statically or dynamically.
@@ -46,6 +49,3 @@ git submodule update --init --recursive
 
 - RedFox Studios - [https://github.com/redfox-studios](https://github.com/redfox-studios)
 - Michal Flaška - [https://github.com/pilot2254](https://github.com/pilot2254)
-
-> [!IMPORTANT]
-> The DevKit is not final. Many things may change, and the repository may be split into multiple repositories in the future.
